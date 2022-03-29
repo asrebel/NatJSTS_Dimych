@@ -1,3 +1,5 @@
+
+
 const ages = [18,20,22,1,100,90,14];
 
 const oldAges = ages.filter(age => age >90); // > 90
